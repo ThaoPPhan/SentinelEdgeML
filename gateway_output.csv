@@ -1,0 +1,1001 @@
+device_id,action,reasons,ai_score
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Sensor anomaly,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,BLOCK,"Large packet, Bad domain",0.5
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,High frequency,0.3
+camera_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.3
+smart_lock_1,ALLOW,,0.0
+camera_1,BLOCK,Brute force,0.3
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,BLOCK,"Large packet, Bad domain",0.5
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.3
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,Brute force,0.3
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,BLOCK,High frequency,0.3
+camera_1,ALLOW,,0.0
+smart_light_1,BLOCK,Brute force,0.3
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Sensor anomaly,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,BLOCK,High frequency,0.3
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,BLOCK,Brute force,0.0
+smart_lock_1,BLOCK,Brute force,0.3
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,BLOCK,Brute force,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.3
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,BLOCK,"Large packet, Bad domain",0.5
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Sensor anomaly,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.5
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,BLOCK,Brute force,0.0
+smart_light_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_motion_1,ALLOW,,0.0
+camera_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_motion_1,BLOCK,High frequency,0.3
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Sensor anomaly,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,High frequency,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,BLOCK,"Large packet, Bad domain",0.5
+smart_light_1,BLOCK,High frequency,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.2
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.3
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,BLOCK,Brute force,0.3
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,BLOCK,High frequency,0.3
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,BLOCK,High frequency,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Brute force,0.3
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.3
+esp32_temp_1,ALLOW,,0.0
+camera_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,High frequency,0.3
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.5
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Brute force,0.3
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,Brute force,0.3
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,BLOCK,Sensor anomaly,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.3
+esp32_temp_1,BLOCK,"Large packet, Bad domain",0.2
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Sensor anomaly,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.3
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.3
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,BLOCK,High frequency,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,BLOCK,Sensor anomaly,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,High frequency,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,High frequency,0.0
+smart_light_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,Brute force,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,BLOCK,"Large packet, Bad domain",0.2
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.5
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.2
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Sensor anomaly,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,"Large packet, Bad domain",0.5
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.3
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,High frequency,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,Brute force,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,BLOCK,High frequency,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,BLOCK,Brute force,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,BLOCK,Brute force,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,BLOCK,Brute force,0.3
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,BLOCK,Brute force,0.3
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.3
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,BLOCK,Brute force,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,High frequency,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Brute force,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.3
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,BLOCK,"Large packet, Bad domain",0.5
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.3
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,BLOCK,Sensor anomaly,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,Brute force,0.3
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,BLOCK,High frequency,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,BLOCK,High frequency,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.2
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,BLOCK,"Large packet, Bad domain",0.5
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,BLOCK,High frequency,0.3
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.2
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,High frequency,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Brute force,0.3
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,Brute force,0.3
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Brute force,0.3
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.5
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,BLOCK,Brute force,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,BLOCK,Brute force,0.3
+esp32_temp_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,BLOCK,High frequency,0.0
+camera_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+camera_1,ALLOW,,0.0
+smart_lock_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_temp_1,ALLOW,,0.0
+esp32_motion_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+smart_light_1,ALLOW,,0.0
+esp32_motion_1,BLOCK,"Large packet, Bad domain",0.5
+esp32_temp_1,ALLOW,,0.0
