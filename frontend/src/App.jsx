@@ -122,7 +122,7 @@ function App() {
     <div className="app">
       <header className="hero">
         <div>
-          <h1>SentinelEdge Final Boss v2</h1>
+          <h1>SentinelEdge</h1>
           <p>
             Real-time smart-home simulation with threshold tuning, live anomaly
             scoring, and suspicious-event inspection.
